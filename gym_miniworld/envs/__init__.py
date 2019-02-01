@@ -12,7 +12,7 @@ from .maze import *
 from .collecthealth import *
 from .simtorealgoto import *
 from .simtorealpush import *
-
+from .tmaze_modified import *
 # Registered environment ids
 env_ids = []
 
